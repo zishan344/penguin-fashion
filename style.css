@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+.shop-heading-color {
+  color: #363958;
+  font-size: 24px;
+}
+.sizing-font {
+  font-family: "Bebas Neue", cursive;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 70px;
+  line-height: 96px;
+}
